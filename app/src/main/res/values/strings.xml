@@ -4,7 +4,7 @@
     <string name="app_name">My Application</string>
     <string name="hello_world">Custom Spinner</string>
     <string name="action_settings">Settings</string>
-    <string name="country_label">Settings</string>
+    <string name="country_label">Country</string>
     <string-array name="countries_list">
         <item>Afghanistan</item>
         <item>Albania</item>
